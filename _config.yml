@@ -2,3 +2,4 @@ name: Portfolio
 theme: jekyll-theme-minimal
 description: Romeo Kiekara's portfolio
 title: Portfolio
+layout: default
