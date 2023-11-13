@@ -25,7 +25,7 @@ I also know the basics of
 
 [Language learning web application](https://github.com/Kiekara/fullstack-project)
 - An application for learning Finnish or English by translating words either way
-- With "teacher's" access words and categories can be added, removed or edited
+- With "teacher's" access, words and categories can be added, removed or edited
 - __Technologies used__
   - API backend implemented using Node.js and Express.js
   - Frontend implemented using ReactJS and CSS
@@ -38,8 +38,9 @@ I also know the basics of
   - User location fetched using Google Play services location API
   - Weather information fetched from OpenWeatherMap API
 
-__Web Scraping__ (implemented as a part of web application project for female hockey in Finland)
+__Web Scraping__<br>
+Implemented as a part of web application project for female hockey in Finland.<br>
+The project was passed on to a different team, which is why I have no access to its current state
 - The initial feature scraped the match data from http://tulospalvelu.leijonat.fi
-- The project was passed on to a different team, which is why I have no access to its current state
 - __Technologies used__
   - The feature was implemented using Node.js and a web sraping library, Playwright
