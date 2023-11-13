@@ -5,7 +5,7 @@ I'm interested in backend, frontend and mobile development.
 
 ## Education
 
-2020 -
+__2020 -__
 
 __Bachelor of Business Administration__ in __Business Information Systems__<br>
 __Tampere__ University of Applied Sciences<br>
