@@ -5,10 +5,11 @@ I'm interested in backend, frontend and mobile development.
 
 ## Education
 
->  2020 -
->>      Bachelor of Business Administration in Business Information Systems
->>      Tampere University of Applied Sciences
->>      expected graduation: 2024
+2020 -
+
+__Bachelor of Business Administration__ in __Business Information Systems__
+__Tampere__ University of Applied Sciences
+expected graduation: __2024__
 
 ### Skills
 
