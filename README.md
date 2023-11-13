@@ -23,14 +23,14 @@ I also know the basics of
 
 ## Projects I have done
 
-[Language learning web application](https://github.com/Kiekara/fullstack-project)
+__[Language learning web application](https://github.com/Kiekara/fullstack-project)__
 - An application for learning Finnish or English by translating words either way
 - With "teacher's" access, words and categories can be added, removed or edited
 - __Technologies used__
   - API backend implemented using Node.js and Express.js
   - Frontend implemented using ReactJS and CSS
 
-[Weather application for Android](https://github.com/Kiekara/weather-app)
+__[Weather application for Android](https://github.com/Kiekara/weather-app)__
 - A simple weather application for viewing the current weather or 5-day forecast
 - Users can choose to check the weather of their current location or search for another location to check
 - __Technologies used__
@@ -41,6 +41,7 @@ I also know the basics of
 __Web Scraping__<br>
 Implemented as a part of a web application project for female hockey in Finland.
 The project was passed on to a different team, which is why I have no access to its current state.
-- The initial feature scraped the match data from http://tulospalvelu.leijonat.fi
+- The data was scraped from the HTML elements of the target site and changed to JSON format
+- The initial feature scraped the match data from [http://tulospalvelu.leijonat.fi](http://tulospalvelu.leijonat.fi)
 - __Technologies used__
   - The feature was implemented using Node.js and a web sraping library, Playwright
