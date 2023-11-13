@@ -8,7 +8,9 @@ I'm interested in backend, frontend and mobile development.
 2020 -
 
 __Bachelor of Business Administration__ in __Business Information Systems__
+
 __Tampere__ University of Applied Sciences
+
 expected graduation: __2024__
 
 ### Skills
