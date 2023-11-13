@@ -40,7 +40,7 @@ I also know the basics of
 
 __Web Scraping__<br>
 Implemented as a part of web application project for female hockey in Finland.<br>
-The project was passed on to a different team, which is why I have no access to its current state
+The project was passed on to a different team, which is why I have no access to its current state.
 - The initial feature scraped the match data from http://tulospalvelu.leijonat.fi
 - __Technologies used__
   - The feature was implemented using Node.js and a web sraping library, Playwright
