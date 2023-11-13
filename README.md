@@ -41,7 +41,7 @@ __[Weather application for Android](https://github.com/Kiekara/weather-app)__
 __Web Scraping__<br>
 Implemented as a part of a web application project for female hockey in Finland.
 The project was passed on to a different team, which is why I have no access to its current state.
-- The data was scraped from the HTML elements of the target site and changed to JSON format
+- The data was scraped from the HTML elements of the target site and parsed to JSON format
 - The initial feature scraped the match data from [http://tulospalvelu.leijonat.fi](http://tulospalvelu.leijonat.fi)
 - __Technologies used__
   - The feature was implemented using Node.js and a web sraping library, Playwright
