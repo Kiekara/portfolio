@@ -39,7 +39,7 @@ I also know the basics of
   - Weather information fetched from OpenWeatherMap API
 
 __Web Scraping__<br>
-Implemented as a part of web application project for female hockey in Finland.<br>
+Implemented as a part of web application project for female hockey in Finland.
 The project was passed on to a different team, which is why I have no access to its current state.
 - The initial feature scraped the match data from http://tulospalvelu.leijonat.fi
 - __Technologies used__
