@@ -1,12 +1,12 @@
 # Romeo Kiekara
 
-I'm a fourth year student studying Information and Communication Technologies at Tampere University of Applied Sciences.
+I'm a fourth year student studying Business Information Systems at Tampere University of Applied Sciences.
 I'm interested in backend, frontend and mobile development.
 
 ## Education
 
 >  2020 -
->>      Bachelor of Business Administration in Information and Communication Technologies
+>>      Bachelor of Business Administration in Business Information Systems
 >>      Tampere University of Applied Sciences
 >>      expected graduation: 2024
 
