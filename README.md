@@ -1,6 +1,8 @@
 # Romeo Kiekara
 
 I'm a fourth year student studying Business Information Systems at Tampere University of Applied Sciences.
+My personal strong points are patient nature, fast learning skills and problem solving.
+Along with my logical thinking and mathematic skills, they have helped me greatly in progressing my coding skills.
 I'm interested in backend, frontend and mobile development.
 
 ## Education
@@ -13,12 +15,10 @@ expected graduation: __2024__
 
 ## Skills
 
-I have experience with these technologies
-
+I have experience with these technologies<br>
 *Node.js  /  ReactJS  /  Jetpack Compose  /  Kotlin*
 
-I also know the basics of
-
+I also know the basics of<br>
 *git  /  MySQL  /  HTML  /  CSS  /  Java  /  Python*
 
 ## Projects I have done
