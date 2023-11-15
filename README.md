@@ -16,10 +16,10 @@ expected graduation: __2024__
 ## Skills
 
 I have experience with these technologies<br>
-*Node.js  /  ReactJS  /  Jetpack Compose  /  Kotlin*
+*Node.js*  __|__  *ReactJS*  __|__  *Jetpack Compose*  __|__  *Kotlin*
 
 I also know the basics of<br>
-*git  /  MySQL  /  HTML  /  CSS  /  Java  /  Python*
+*git*  __|__  *MySQL*  __|__  *HTML*  __|__  *CSS*  __|__  *Java*  __|__  *Python*
 
 ## Projects I have done
 
