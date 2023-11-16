@@ -27,7 +27,7 @@ __[Language learning web application](https://github.com/Kiekara/fullstack-proje
 - An application for learning Finnish or English by translating words either way
 - With "teacher's" access, words and categories can be added, removed or edited
 - __Technologies used__
-  - API backend implemented using __Node.js__ and __Express.js__
+  - API backend implemented using __Node.js__, __Express.js__ and __MySQL__
   - Frontend implemented using __ReactJS__ and __CSS__
 
 __[Weather application for Android](https://github.com/Kiekara/weather-app)__
